@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# ✨ Crystal Studio Development
+# ✨ Crystal Studio Labs
 
 **Building modern web apps, developer tools, and clean UI experiences.**  
 We ship fast ⚡ | Design clean 🎨 | Build useful 🛠️ | Stay open-source 🌍
@@ -30,7 +30,7 @@ We ship fast ⚡ | Design clean 🎨 | Build useful 🛠️ | Stay open-source �
 
 ## 👋 Who we are
 
-**Crystal Studio Development** is a creator-driven GitHub organization focused on building:
+**Crystal Studio Labs** is a creator-driven GitHub organization focused on building:
 - 🌐 Modern web applications
 - 🛠️ Developer tools & utilities
 - 🎨 Clean UI / smooth UX experiences
@@ -94,14 +94,14 @@ You can support by:
 
 ## 🔗 Quick Links
 
-- 🏢 Organization: https://github.com/Crystal-Studio-Development
+- 🏢 Organization: https://github.com/Crystal-Studio-Labs
 
 ---
 
 <div align="center">
 
 ### ❤️ Credits
-**Made With Love And Coffee By Shuvranshu And Crystal Studio Development** ☕✨
+**Made With Love And Coffee By Shuvranshu And Crystal Studio Labs** ☕✨
 
 <br/>
 
